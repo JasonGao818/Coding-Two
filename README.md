@@ -1,9 +1,15 @@
 # Coding-Two
 Weekly Assignment
 
+All assignments contain two C++, Opemframeworks and two python, you can view everything in four folders, including the code for each assignment as well as videos, and here is my explanation of the weekly assignments.
+
 Week3
 
+Week 3 assignments are in the Week 3 folder, which contains the code section and videos.
+
 Week4
+
+The assignment for week 4 is a collaborative project, for more details check out the week 4 folder which has code details and video effects.
 
 Week6
 
