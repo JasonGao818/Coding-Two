@@ -1,7 +1,7 @@
 # Coding-Two
 Weekly Assignment
 
-All assignments contain two C++, Opemframeworks and two python, you can view everything in four folders, including the code for each assignment as well as videos,You can also view the weekly assignment videos I upload on Panpto. and here is my explanation of the weekly assignments.
+All assignments contain two C++, Opemframeworks and two python, you can view everything in four folders, including the code for each assignment as well as videos,You can also view the weekly assignment videos I upload on Panopto. and here is my explanation of the weekly assignments.
 
 Week3
 
